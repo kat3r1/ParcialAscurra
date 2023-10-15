@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ParcialAscurra</string>
+    <string name="valtitulo">Login MultiApp</string>
+    <string name="valEmail">Email</string>
+    <string name="valPassword">Password</string>
+    <string name="boton_SignIn">Sign In</string>
+    <string name="titulo_multiapp">Menu MultiApp</string>
+    <string name="boton_tkambio">T-KAMBIO</string>
+    <string name="boton_edad">EDAD EN DIAS</string>
+    <string name="boton_Contactos">CONTACTOS</string>
+    <string name="titulo_Cambio">CAMBIO DE DIVISAS</string>
+    <string name="titulo_ingreseTipo">Ingrese el Tipo de Cambio</string>
+    <string name="titulo_ingreseMonto">Ingrese el monto en USD</string>
+    <string name="ejemplo_tipo">Por ejemplo 3.70...</string>
+    <string name="ejemplomonto">Por ejemplo 100...</string>
+    <string name="boton_Calcular">CALCULAR</string>
+    <string name="titulo_resultado">El resultado en soles es: S/.</string>
+    <string name="Titulo_billetes">Los billetes a entregar serían:</string>
+    <string name="titulo_billete100">billetes de 100</string>
+    <string name="titulo_billete50">billetes de 50</string>
+    <string name="titulo_billetes20">billetes de 20</string>
+    <string name="titulo_edad">EDAD EN DIAS</string>
+    <string name="ingrese_fecha">Ingrese la fecha de nacimiento</string>
+    <string name="resultado_edad">Su edad en días es:</string>
+    <string name="titulo_contactos">LISTA DE CONTACTOS</string>
+</resources>
